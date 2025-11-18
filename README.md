@@ -12,6 +12,8 @@ I'm Hunter!
 I'm a senior in CS at the University of Oklahoma. I work at the Data Institute for Societal Challenges, where I rotate through the stack; first it was frontend webdev, then proprietary NLP, and now a little bit of performance-critical C++. 
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-black?logo=duckdb&logoColor=FFF000)](https://duckdb.org/)
@@ -19,6 +21,7 @@ I'm a senior in CS at the University of Oklahoma. I work at the Data Institute f
 ##
 
 ### Air Traffic Visualizer
+
 I'm also in charge of service management for a project serving the Federal Aviation Administration. Using k3d, I set up Kubernetes deployments to automatically boot each microservice into its own Docker container. Our desktop client reads data packets from nearby vehicles using an antenna that costs just thousands, **<ins>expanding modern safety tools to ATCs at small airfields</ins>** that can't afford the million-dollar SOTA.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -31,6 +34,7 @@ I'm also in charge of service management for a project serving the Federal Aviat
 ##
 
 ### Alzheimer's Data Synthesis for Equitable Diagnoses
+
 Kristiana and I noticed that available Alzheimer's data is heavily unbalanced with regard to ethnicity. Neural networks trained on that skewed data performed up to nine percentage points worse for ethnic minorities.
 
 To address this, we're comparing methods for synthetic data generation using a suite of fairness metrics. Then, we'll supplement the data set with synthetic observations, aiming to tighten the gap, **<ins>giving accurate prognoses for folks of all ethnicities.</ins>**
