@@ -9,7 +9,7 @@ I'm Hunter!
 ##
 
 ### About Me
-I'm a senior in CS at the University of Oklahoma. I work at the Data Institute for Societal Challenges, where I rotate through the stack; first it was frontend webdev, then proprietary NLP, and now a little bit of performance-critical C++. 
+I'm a senior in CS at the University of Oklahoma. I work at the Data Institute for Societal Challenges, where I rotate through the stack; first it was frontend webdev, then proprietary NLP, and now a little bit of performance-critical C++. You can read about that project [right here.](https://www.ou.edu/news/articles/2024/april/university-of-oklahoma-receives-four-million-dollar-grant-for-supply-chain-resiliency-research)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white)](https://isocpp.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
